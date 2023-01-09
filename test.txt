@@ -4,3 +4,5 @@ O outro fez pull
 E botou um arquio novo
 Eu continuo codando
 fiz um pull e não apagou o que eu tava mexendo
+
+varias alterações locais
